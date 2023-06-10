@@ -3,3 +3,4 @@ readthedocs-sphinx-ext==1.0.1
 sphinx_rtd_theme==0.4.3
 ghp-import==0.5.5
 jinja2==2.10.1
+markupsafe==1.1.1
